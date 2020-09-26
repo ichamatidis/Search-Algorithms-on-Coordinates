@@ -5,9 +5,9 @@ Algorithms implemented:
 
 **1. Best First Search**
 
-**2. A* KM: Using the straight line distance as a cost function
+__2. A* KM: Using the straight line distance as a cost function__
 
-**3. A* MIN: Using the time needed calculated using the maximum speed that someone need to run these roads
+__3. A* MIN: Using the time needed calculated using the maximum speed that someone need to run these roads__
 
 **4. BFS**
 
