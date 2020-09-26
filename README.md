@@ -2,7 +2,6 @@
 
 This programm performs search using all the popular search algorithms to find the fastest path between 2 cities of Greece.
 Algorithms implemented:
-
 **1. Best First Search**
 
 **2. A* KM: Using the straight line distance as a cost function**
