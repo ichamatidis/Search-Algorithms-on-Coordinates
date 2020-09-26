@@ -2,13 +2,12 @@
 
 This programm performs search using all the popular search algorithms to find the fastest path between 2 cities of Greece.
 Algorithms implemented:
-1. Best First Search
-2. A* KM: Using the straight line distance as a cost function
-3. A* MIN: Using the time needed calculated using the maximum speed that someone need to run these roads
-4. BFS
-5. DFS
-6. Uniform Search
-
+**1. Best First Search**
+**2. A* KM: Using the straight line distance as a cost function**
+**3. A* MIN: Using the time needed calculated using the maximum speed that someone need to run these roads**
+**4. BFS**
+**5. DFS**
+**6. Uniform Search**
 
 The **all_Roads.txt** contains all the majow cities of greece with their coordinates from Google Maps 
 as well as big roads with their names connecting them and also information about the time  and KM needed according 
