@@ -1,0 +1,538 @@
+42
+Agios Dhmhtrios
+40.155659
+22.232001
+Lofos
+40.246066
+22.379815
+Raxh
+40.242341
+22.357136
+Lagoraxh
+40.295510
+22.354550
+Rhtini
+40.290273
+22.286572
+Elatoxori
+40.321168
+22.265630
+Mosxopotamos
+40.325356
+22.309232
+Aronas
+40.290535
+22.430768
+Andromaxi
+40.271677
+22.475743
+Peristash
+40.273249
+22.540288
+Nea Efesos
+40.230410
+22.496994
+Kontariotisa
+40.226216
+22.464035
+Brontou
+40.194754
+22.432106
+Dion
+40.170005
+22.485671
+Litochoro
+40.101959
+22.503227
+Plaka
+40.101646
+22.567514
+Paralia
+40.268318
+22.598346
+Korinos
+40.317100
+22.579984
+Nea Trapezounta
+40.331108
+22.528541
+Trilofos
+40.370624
+22.456275
+Alonia
+40.394571
+22.541197
+Katerini
+40.270700
+22.513026
+Sivota
+39.406765
+20.246181
+Plataria
+39.452377
+20.274334
+Karavostasi
+39.337230
+20.302486
+Karteri
+39.384479
+20.382824
+Mesovouni
+39.427453
+20.399303
+Sevasto
+39.423741
+20.474148
+Paramithia
+39.462450
+20.513973
+Prodromi
+39.430636
+20.551052
+Frosini
+39.450256
+20.602550
+Karvounari
+39.391908
+20.481701
+Dhmos Axeronta
+39.353160
+20.565471
+Tsekouri
+39.310671
+20.626583
+Ammoudia
+39.237317
+20.485820
+Parga
+39.284102
+20.403423
+Grika
+39.466691
+20.435009
+Asprokklisi
+39.614428
+20.218029
+Kestrini
+39.563100
+20.185070
+Ormos Baltou
+39.524976
+20.188503
+Agia
+39.314079
+20.356512
+Spatharaioi
+39.323469
+20.498287
+82
+EO Katerinis Ellasonas
+Lofos
+Agios Dhmitrios
+20.1
+26
+EO Katerinis Ellasonas
+Lofos
+Lagoraxh
+12.3
+17
+EO Katerinis Ellasonas
+Rhtini
+Agios Dhmhtrios
+29.3
+35
+EO Katerinis Elatoxoriou
+Elatochori
+Rhtini
+5.6
+9
+EO Arona Mosxoxoriou
+Elatochori
+Katerini
+28.3
+35
+EO Aronas Mosxopotamou
+Elatochori
+Paralia
+36.3
+42
+EO Katerinis Elatochoriou
+Elatochori
+Litochoro
+50.2
+49
+Paradromo Athinon Thessalonikis
+Katerini
+Litochoro
+22.7
+22
+PEO Athinon Thessalonikis
+Katerini
+Trapezounta
+9.4
+11
+EO13
+Katerini
+Lofos
+13.9
+17
+E013
+Katerini
+Raxh
+16.4
+22
+EO13
+Katerini
+Rhtini
+23.5
+27
+EO Aronas Mosxopotamou
+Katerini
+Mosxopotamos
+21.5
+24
+EO Aronas Mosxopotamou
+Katerini
+Aronas
+8
+11
+EO13
+Katerini
+Andromaxi
+3.4
+6
+Leonida Iasonidi
+Katerini
+Peristash
+3.3
+5
+EO Katerinis Litochorou
+Katerini
+Nea Efesos
+6.5
+9
+EO Katernis Litochorou
+Katerini
+Kontariotisa
+10.5
+13
+EO Katerinis Litochorou
+Katerini
+Brontou
+16.2
+17
+EO Katerinis Litochorou
+Katerini
+Dion
+15.8
+18
+Paradromo Athinon Thessalonikis
+Katerini
+Plaka
+23.8
+21
+EO Katerinis Paralias
+Katerini
+Paralia
+7.9
+11
+Palia Ethniki odo Athinon Thessalonikis
+Katerini
+Korinos
+9.7
+12
+Palia Ethniki odo Athinon Thessalonikis
+Katerini
+Nea Trapezounta
+9.4
+12
+EO Katerinis Riakia
+Katerini
+Trilofos
+13.7
+16
+Palia ethniki odo Thessalonikis
+Katerini
+Alonia
+19.7
+21
+Palia ethniki odo  Athinon Thessalonikis
+Korinos
+Nea Trapezounta
+7.5
+10
+Eo Katerinis Riakia
+Trilofos
+Nea Trapezounta
+7.9
+14
+Paradromo ethniki Athinon Thessalonikis
+Alonia
+Plaka
+43.2
+37
+EO Katerinis Litochorou
+Dion
+Kontariotisa
+7.9
+10
+Agiou Antoniou
+Nea Efesos
+Andromaxi
+8.2
+8
+EO Aronas Mosxopotamou
+Mosxopotamos
+Paralia
+29.9
+33
+Ethniki odo Athinon Thessalonikis
+Litochoro
+Nea Trapezounta
+31.5
+27
+Palia Ethniki odo Athinon Thessalonikis
+Brontou
+Korinos
+27.2
+29
+Ethniki odo Athinon Thessalonikis
+Andromaxi
+Plaka
+24.6
+19
+EO Katerinis Litochorou
+Lofos
+Litochoro
+25
+29
+EO Aronas Mosxopotamou
+Aronas
+Peristash
+11.7
+16
+EO Aronas Mosxopotamou
+Elatochori
+Peristash
+30.7
+38
+EO Mosxopotamou
+Elatochori
+Lagoraxh
+12
+16
+EO Elatochoriou
+Rhtini
+Andromaxi
+20.6
+24
+Egnatia Odos Athinon Thessalonikis
+Agios Dhmitrios
+Brontou
+128
+88
+EO Katerinis Litochorou
+Brontou
+Litochoro
+18
+21
+EO Prevezas Hgoumenitsas
+Sivota
+Hgoumenitsa
+23.7
+29
+EO Prevezas Hgoumenitsas
+Plataria
+Hgoumenitsa
+15.5
+20
+Egnatia Odos E90
+Karavostasi
+Hgoumenitsa
+38.6
+47
+Egnatia Odos E90
+Karteri
+Hgoumenitsa
+20.9
+21
+Egnatia Odos E90
+Mesovouni
+Hgoumenitsa
+18.9
+20
+Egnatia Odos E90
+Sevasto
+Hgoumenitsa
+30.6
+34
+Egnatia Odos E90
+Paramithia
+Hgoumenitsa
+32.3
+29
+Egnatia Odos E90
+Prodromi
+Hgoumenitsa
+38.7
+37
+Egnatia Odos E90
+Frosini
+Hgoumenitsa
+53.8
+66
+Egnatia Odos E90
+Karvounari
+Hgoumenitsa
+41.1
+38
+Egnatia Odos E90
+Dhmos Axeronta
+Hgoumenitsa
+46.7
+43
+Egnatia Odos E90
+Tsekouri
+Hgoumenitsa
+56.7
+60
+Eo Prevezas Hgoumenitsas
+Ammoudia
+Hgoumenitsa
+48.9
+41
+Eo Prevezas Hgoumenitsas
+Parga
+Hgoumenitsa
+44.9
+39
+Egnatia Odos E90
+Grika
+Hgoumenitsa
+20.1
+20
+E92
+Asprokklisi
+Hgoumenitsa
+16.3
+21
+E92
+Kestrini
+Hgoumenitsa
+10.6
+14
+E92
+Ormos Baltou
+Kestrini
+8.9
+18
+Eo Perdikas Pargas
+Agia
+Hgoumenitsa
+43.5
+48
+EO Prevezas Hgoumenitsas
+Spatharaioi
+Hgoumenitsa
+36.7
+31
+EO Morfis Anthousas
+Spatharaioi
+Parga
+14.3
+18
+EO Morfis Anthousas
+Tsekouri
+Parga
+33.6
+43
+EO Paramithias Morfis
+Paramithia
+Parga
+33.5
+37
+EO Prevezas Hgoumenitsas
+Plataria
+Parga
+36.6
+31
+Periferiakos Dromos
+Paramithia
+Mesovouni
+17.4
+22
+Eo Prevezas Hgoumenitsas
+Paramithia
+Sivota
+49.4
+42
+EO Paramithias Morfis
+Paramithia
+Karvounari
+9.4
+11
+EO Prevezas Hgoumenitsa
+Tsekouri
+Sivota
+57.1
+64
+EO Prevezas Hgoumenitsa
+Ormos Baltou
+Sivota
+31.9
+43
+EO Prevezas Hgoumenitsa
+Dhmos Axeronta
+Sivota
+55.9
+55
+EO Perdikas Pargas
+Anthousa
+Sivota
+23.8
+32
+EO Prevezas Hgoumenitsa
+Kestrini
+Sivota
+33.6
+39
+EO Prevezas Hgoumenitsa
+Asprokklisi
+Sivota
+39.3
+45
+Egnatia Odos E90
+Ormos Valtou
+Paramithia
+40.1
+43
+Egnatia Odos E90
+Sivota
+Ormos Baltou
+31.7
+42
+Anonimon Dromon
+Kestrini
+Ormos Baltou
+6
+12
+Egnatia Odos E90
+Grika
+Ormos Baltou
+28.1
+34
+Egnatia Odos E90
+Grika
+Karavostasi
+34.8
+40
+Egnatia Odos E90
+Grika
+Asprokklisi
+35.6
+34
+EO Prevezas Hgoumenitsas
+Asprokklisi
+Sivota
+39.3
+44
